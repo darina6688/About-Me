@@ -17,7 +17,7 @@ In this profile I post my tasks and projects that I solved during my studies.
 📋 **Languages:** Python, My SQL
 
 📚 **Libraries:** 
-Pandas, Seaborn, NumPy, Matplotlib,  Plotly
+Pandas, Seaborn, Matplotlib,  Plotly
 
 🎨 **Visualization:** 
 Redash
