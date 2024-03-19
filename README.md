@@ -25,4 +25,7 @@ Redash
 💻 **IDEs/Editors:** 
 Jupyter Notebook
 
-**Courses:** Karpov.courses
+**Courses:** Karpov.courses  
+
+**My CV:**  [Gazizova_DG_Analyst.pdf](https://github.com/darina6688/About-Me/files/14646500/Gazizova_DG_Analyst.pdf)  
+
