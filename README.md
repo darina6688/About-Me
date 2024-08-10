@@ -14,18 +14,19 @@ In this profile I post my tasks and projects that I solved during my studies.
 
 💾 **Databases:** ClickHouse, PostgreSQL
 
-📋 **Languages:** Python, My SQL
+📋 **Languages:** Python, SQL
 
 📚 **Libraries:** 
-Pandas, Seaborn, Matplotlib,  Plotly
+Pandas, Seaborn, Matplotlib,  Plotly, SciPy
 
 🎨 **Visualization:** 
-Redash
+Redash, Tableau
 
 💻 **IDEs/Editors:** 
-Jupyter Notebook
+Jupyter Notebook, Colab
 
 **Courses:** Karpov.courses  
 
-**My CV:**  [Gazizova_DG_Analyst.pdf](https://github.com/darina6688/About-Me/files/14646500/Gazizova_DG_Analyst.pdf)  
+**My CV:**  [Darina_Gazizova_DataAnalyst.pdf](https://github.com/user-attachments/files/16570094/Darina_Gazizova_DataAnalyst.pdf)
+
 
